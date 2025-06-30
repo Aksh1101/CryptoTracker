@@ -18,7 +18,7 @@ Tech Stack
 - Language: Kotlin  
 - UI: Jetpack Compose  
 - Architecture: MVVM  
-- **Dependency Injection: Koin  
+- Dependency Injection: Koin  
 - Networking: Ktor Client  
 - Serialization: Kotlinx Serialization  
 - Charting: Compose Canvas  
@@ -28,7 +28,7 @@ Tech Stack
 
  Note
 
-> This project was initially bootstrapped using [Philipp Lackner's Crypto App Repo](https://github.com/philipplackner/CryptoAppYT) for setting up dependencies, fonts, and the base color theme.  
+> This project was initially bootstrapped using [Philipp Lackner's Crypto Tracker App Repo](https://github.com/philipplackner/CryptoTracker/tree/initial) for setting up dependencies, fonts, and the base color theme.  
 All core features, screens, UI logic, API handling, and interactions were developed independently thereafter.
 
 ---
